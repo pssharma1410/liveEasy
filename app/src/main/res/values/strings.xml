@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">liveEasy</string>
+    <string-array name="languages">
+        <item> English </item>
+        <item> हिंदी </item>
+    </string-array>
+</resources>
